@@ -1,4 +1,4 @@
-#### Hello world! Welcome to bakinha profile!
+# Hello world! Welcome to bakinha profile!
 
 
 - 🌱 I’m currently learning JavaScript, HTML&CSS and Java 
