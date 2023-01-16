@@ -1,8 +1,8 @@
-# Hello world! Welcome to bakinha profile!
+# Hello world! Bem vindo ao meu perfil!
 
 
-- 🌱 I’m currently learning JavaScript, HTML&CSS and Java 
-- ❓ answer me a question... what do you do when you are frustrated?
+- Atualmnte estou estudando JavaScript, HTML e CSS. 
+- Me responda uma pergunta.. o que você faz quando acaba se frustrando?
 
 <div align="center">
   <a href="https://github.com/bakaout">
