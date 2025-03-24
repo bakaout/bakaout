@@ -22,6 +22,7 @@
    <img src="https://img.shields.io/badge/Css-323330?style=for-the-badge&logo=CSS3&logoColor=264de4">
    <img src="https://img.shields.io/badge/Html-323330?style=for-the-badge&logo=HTML5&logoColor=ec6231">
     <img src="https://img.shields.io/badge/Bootstrap-323330?style=for-the-badge&logo=Bootstrap&logoColor=511FA5">
+   <img src="https://img.shields.io/badge/Wordpress-323330?style=for-the-badge&logo=Wordpress&logoColor=511FA5">
  </div>
 
  ## <img src="https://img.shields.io/badge/Estudando..-275950?style=for-the-badge">
